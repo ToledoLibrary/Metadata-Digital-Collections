@@ -1,0 +1,22 @@
+The XML files are stored in Dropbox at the following URL. Files can be downloaded from Dropbox but not edited. The files were stored in this fashion due to restrictions on GitHub's upload file-size allowance:
+
+https://www.dropbox.com/sh/nd0skwre3rtc7zv/AACvvkvI0fa5heNoRI7cnlEQa
+
+The XML is encoded RDF describing metadata exports from CONTENTdm. The XML files correspond to specific collections in Ohio Memory, a statewide, hosted digital library.
+
+
+YYYY-MM-DD-Metadata-Community-Photo-Album
+corresponds to
+https://ohiomemory.org/digital/collection/p16007coll31/
+
+YYYY-MM-DD-Metadata-Digital-Collections
+corresponds to
+https://www.ohiomemory.org/digital/collection/p16007coll33/
+
+YYYY-MM-DD-Metadata-Newspapers
+corresponds to
+https://ohiomemory.org/digital/collection/p16007coll77/
+
+YYYY-MM-DD-Auditors-Images
+corresponds to
+https://www.ohiomemory.org/digital/collection/p16007coll88/
